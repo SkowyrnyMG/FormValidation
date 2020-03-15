@@ -8,7 +8,7 @@ This is a simple SIGN IN form with validation. User has to fill all of the empty
 
 ## How to start
 
-You can go directly to [DEMO](#demo) or run localy.
+You can go directly to [DEMO](https://gracious-feynman-bb94a9.netlify.com/) or run localy.
 
 Run localy:
 
@@ -29,11 +29,6 @@ To run app on local server use command
 ```
 npm start
 ```
-
-## DEMO
-
-<a name="demo"/>
-Demoapp link: [https://gracious-feynman-bb94a9.netlify.com/]
 
 ## Author
 
