@@ -33,7 +33,7 @@ npm start
 ## DEMO
 
 <a name="demo"/>
-Demoapp link: https://gracious-feynman-bb94a9.netlify.com/
+Demoapp link: [https://gracious-feynman-bb94a9.netlify.com/]
 
 ## Author
 
